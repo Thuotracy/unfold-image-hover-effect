@@ -12,8 +12,8 @@ body{
 }
 
 .box{
-    width: 640px;
-    height: 360px;
+    width: 500px;
+    height: 300px;
     transform: rotate(-25deg) skew(25deg);
     transition: 0.5s;
     display: flex;
@@ -28,7 +28,7 @@ body{
     height: 100%;
     background: url(puppy.jpg);
     background-size: cover;
-    background-position: calc(-160px * var(--i));
+    background-position: calc(-120px * var(--i));
     display: block;
     transition: 0.5s;
 }
