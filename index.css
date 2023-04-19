@@ -14,11 +14,28 @@ body{
 .box{
     width: 640px;
     height: 360px;
-    background: white;
     transform: rotate(-25deg) skew(25deg);
     transition: 0.5s;
+    display: flex;
 }
 
 .box:hover{
-    
+    transform: rotate(-25deg) skew(-25deg) translateY(-20px);
+}
+
+.box span{
+    width: 25%;
+    height: 100%;
+    background: white;
+    display: block;
+    transition: 0.5s;
+}
+
+.box:hover span:nth-child(odd){
+    transform: skewY(25deg);
+    box-shadow: ;
+}
+
+.box:hover span:nth-child(even){
+    transform: skewY(-25deg);
 }
