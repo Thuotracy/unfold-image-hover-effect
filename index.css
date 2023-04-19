@@ -10,3 +10,15 @@ body{
     min-height: 100vh;
     background: black;
 }
+
+.box{
+    width: 640px;
+    height: 360px;
+    background: white;
+    transform: rotate(-25deg) skew(25deg);
+    transition: 0.5s;
+}
+
+.box:hover{
+    
+}
