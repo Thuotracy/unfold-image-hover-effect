@@ -11,4 +11,4 @@ https://thuotracy.github.io/unfold-image-hover-effect/
 * CSS
 
 ## Support and contact details
-Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com.
+Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com
