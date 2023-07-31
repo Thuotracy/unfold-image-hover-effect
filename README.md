@@ -1,5 +1,4 @@
 ## IMAGE HOVER EFFECT
-
 ## Description
 CSS unfold image hover effect.
 
